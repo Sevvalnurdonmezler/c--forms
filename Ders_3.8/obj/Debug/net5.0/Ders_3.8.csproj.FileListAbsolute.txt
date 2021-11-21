@@ -1,0 +1,16 @@
+E:\Yazılım_c#\Ders_3.8\bin\Debug\net5.0\Ders_3.8.exe
+E:\Yazılım_c#\Ders_3.8\bin\Debug\net5.0\Ders_3.8.deps.json
+E:\Yazılım_c#\Ders_3.8\bin\Debug\net5.0\Ders_3.8.runtimeconfig.json
+E:\Yazılım_c#\Ders_3.8\bin\Debug\net5.0\Ders_3.8.runtimeconfig.dev.json
+E:\Yazılım_c#\Ders_3.8\bin\Debug\net5.0\Ders_3.8.dll
+E:\Yazılım_c#\Ders_3.8\bin\Debug\net5.0\ref\Ders_3.8.dll
+E:\Yazılım_c#\Ders_3.8\bin\Debug\net5.0\Ders_3.8.pdb
+E:\Yazılım_c#\Ders_3.8\obj\Debug\net5.0\Ders_3.8.csproj.AssemblyReference.cache
+E:\Yazılım_c#\Ders_3.8\obj\Debug\net5.0\Ders_3.8.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yazılım_c#\Ders_3.8\obj\Debug\net5.0\Ders_3.8.AssemblyInfoInputs.cache
+E:\Yazılım_c#\Ders_3.8\obj\Debug\net5.0\Ders_3.8.AssemblyInfo.cs
+E:\Yazılım_c#\Ders_3.8\obj\Debug\net5.0\Ders_3.8.csproj.CoreCompileInputs.cache
+E:\Yazılım_c#\Ders_3.8\obj\Debug\net5.0\Ders_3.8.dll
+E:\Yazılım_c#\Ders_3.8\obj\Debug\net5.0\ref\Ders_3.8.dll
+E:\Yazılım_c#\Ders_3.8\obj\Debug\net5.0\Ders_3.8.pdb
+E:\Yazılım_c#\Ders_3.8\obj\Debug\net5.0\Ders_3.8.genruntimeconfig.cache
